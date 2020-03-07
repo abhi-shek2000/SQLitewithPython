@@ -1,2 +1,3 @@
 # SQLitewithPython
-A simple python program with SQLite database 
+
+> A simple python program with SQLite database 
