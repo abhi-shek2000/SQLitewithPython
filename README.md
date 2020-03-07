@@ -4,6 +4,6 @@
 
 *Welcome geeks to my repo here is a small program easily understandable to handle database using SQLite with python*
 
-##prerequisite
+## Prerequisite
 * Basic Knowledge of python
 
